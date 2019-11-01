@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/gltf-project-explorer/static/css/main.2fb98395.chunk.css",
+    "main.js": "/gltf-project-explorer/static/js/main.270f0889.chunk.js",
+    "main.js.map": "/gltf-project-explorer/static/js/main.270f0889.chunk.js.map",
+    "runtime-main.js": "/gltf-project-explorer/static/js/runtime-main.06869e9e.js",
+    "runtime-main.js.map": "/gltf-project-explorer/static/js/runtime-main.06869e9e.js.map",
+    "static/js/2.7bddcf83.chunk.js": "/gltf-project-explorer/static/js/2.7bddcf83.chunk.js",
+    "static/js/2.7bddcf83.chunk.js.map": "/gltf-project-explorer/static/js/2.7bddcf83.chunk.js.map",
+    "index.html": "/gltf-project-explorer/index.html",
+    "precache-manifest.8bccdce48c3f1da01126ad4d336a885f.js": "/gltf-project-explorer/precache-manifest.8bccdce48c3f1da01126ad4d336a885f.js",
+    "service-worker.js": "/gltf-project-explorer/service-worker.js",
+    "static/css/main.2fb98395.chunk.css.map": "/gltf-project-explorer/static/css/main.2fb98395.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06869e9e.js",
+    "static/js/2.7bddcf83.chunk.js",
+    "static/css/main.2fb98395.chunk.css",
+    "static/js/main.270f0889.chunk.js"
+  ]
+}
